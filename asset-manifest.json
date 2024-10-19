@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Pack-Mate/static/css/main.10a2aefb.css",
+    "main.js": "/Pack-Mate/static/js/main.560b9c61.js",
+    "index.html": "/Pack-Mate/index.html",
+    "main.10a2aefb.css.map": "/Pack-Mate/static/css/main.10a2aefb.css.map",
+    "main.560b9c61.js.map": "/Pack-Mate/static/js/main.560b9c61.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10a2aefb.css",
+    "static/js/main.560b9c61.js"
+  ]
+}
